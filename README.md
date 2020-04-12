@@ -10,9 +10,9 @@ In data streams, the data distribution of arriving observations at different tim
 
 ### Authors
 
-* [**Anjin Liu**]()
-* [**Jie Lu**]([https://www.uts.edu.au/staff/jie.lu](https://www.uts.edu.au/staff/jie.lu))
-* [**Guangquan Zhang**]([https://www.uts.edu.au/staff/guangquan.zhang](https://www.uts.edu.au/staff/guangquan.zhang))
+* [**Anjin Liu**](https://www.uts.edu.au/staff/anjin.liu)
+* [**Jie Lu**](https://www.uts.edu.au/staff/jie.lu)
+* [**Guangquan Zhang**](https://www.uts.edu.au/staff/guangquan.zhang)
 
 ## License
 
